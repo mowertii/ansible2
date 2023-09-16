@@ -1,0 +1,11 @@
+# ansible settings
+
+ansible/*
+
+!common/*
+
+**.*.pub
+
+!playbooks/*
+
+
