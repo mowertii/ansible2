@@ -1,10 +1,10 @@
 # ansible settings
 
-ansible/*
+*
 
 !common/*
 
-**.*.pub
+**/*.pub
 
 !playbooks/*
 
